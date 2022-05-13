@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"There are times when dreams sustain us more than facts."
+– Helen Fagin
+
 Use the left arrow to go back!
